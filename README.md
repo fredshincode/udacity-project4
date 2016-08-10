@@ -16,6 +16,6 @@ Getting my website online.
 
 1. Go to github.com. 
 2. Create a new repository and make a readme file. 
-3. Add a new branch gh-pages and set it default. 
+3. Add a new branch gh-pages and set it default. Deleted master branch for convenience. 
 4. Upload my website file and go to setting to see my github page url. 
 
